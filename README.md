@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+## Linting with Circleci Output:
+![Alt text](/screenshots/circleci_success.png?raw=true "Success Screenshot")
 
 ## Project Overview
 
@@ -41,5 +42,4 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
-## Linting with Circleci Output:
-![Alt text](/screenshots/circleci_success.png?raw=true "Success Screenshot")
+
