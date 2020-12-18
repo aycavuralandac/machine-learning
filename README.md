@@ -42,4 +42,4 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Run via kubectl
 
 ## Linting with Circleci Output:
-![Alt text](/screenshots/circleci_success.jpg?raw=true "Success Screenshot")
+![Alt text](/screenshots/circleci_success.png?raw=true "Success Screenshot")
