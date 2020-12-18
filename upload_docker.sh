@@ -6,10 +6,14 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
+dockerpath="aycav/devopsimg"
 
 # Step 2:  
 # Authenticate & tag
+docker login --username "aycav" &&\
+    docker image tag devopsimg $dockerpath
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
 # Push image to a docker repository
+docker image push $dockerpath

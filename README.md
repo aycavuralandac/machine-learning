@@ -40,3 +40,6 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+## Linting with Circleci Output:
+![Alt text](/screenshots/circleci_success.jpg?raw=true "Success Screenshot")
